@@ -1,0 +1,11 @@
+Name,Rating,Winery,Area,Province,Country,Varietal,Vintage,Style,Wine Type,ID,Lat,Lng
+Antinori Tormaresca Calafuria Rosato,86.62096439999998,Antinori,Apulia,,Italy,Negroamaro,2015,,Rose,5e94df2b5fd8fd7ae861e12f,35.063622,-80.772386
+Siren,85.85757864,Ascension Cellars,Paso Robles,,USA,Blend,2014,,Rose,556a0cde72f2c90300000028,35.6208282,-120.661364
+Siren,85.4282233,Ascension Cellars,Paso Robles,,USA,Grenache,2014,,Rose,556a0c9a72f2c90300000027,35.6208282,-120.661364
+Bollinger R. D.,84.63515728,Bollinger,Champagne,,France,"Pinot Noir, Chardonnay",2002,,Rose,544e2e81f29e440200000002,35.223731,-80.8364381
+Intrigue I DO,84.26416462608695,Intrigue Wines,Okanagan Valley,,Canada,,nv,,Rose,5e94def55fd8fd7ae861dbcb,50.0602577,-119.4262435
+Gray Monk Odyssey Rose Brut 2015,83.93870919999998,Gray Monk,Okanagan Valley,,Canada,"Pinot Noir, Pinot Meunier",2015,Sparkling,Rose,5e94def55fd8fd7ae861dbd1,50.052958,-119.4419553
+8th Generation Confidence Frizzante,83.91851245217391,8th Generation,Okanagan Valley,,Canada,"Pinot Noir, Pinot Gris",nv,,Rose,5e94def65fd8fd7ae861dbdb,N/A,N/A
+Gallo Apothic RosÃÂ© 2017,83.42703145600001,Apothic,California,,USA,"Cabernet Sauvignon, Zinfandel",2017,,Rose,5e94ded85fd8fd7ae861d92d,35.2102468,-80.8561091
+Jacob's Creek Moscato Rose 2019,83.34971513411764,Jacob's Creek Wines,Barossa,South Australia,Australia,Moscato,2019,,Rose,5e94decf5fd8fd7ae861d825,35.063622,-80.772386
+Finca Los Primos Rose 2018,83.27181146976746,Finca Los Primos,Mendoza,,Argentina,"Malbec, Cabernet Sauvignon",2018,,Rose,5e94decf5fd8fd7ae861d829,10.0210304,-68.17486939999999

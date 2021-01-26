@@ -1,0 +1,11 @@
+Name,Rating,Winery,Area,Province,Country,Varietal,Vintage,Style,Wine Type,ID,Lat,Lng
+IV,93.43378932,Layor Wines,Nova Scotia,,Canada,Vidal,2013,Dessert,White,55663e3e942360030000000e,35.063622,-80.772386
+Layor Gold,90.62767296842104,Layor Wines,Nova Scotia,,Canada,Vidal,2013,Dessert,White,55663e00942360030000000d,35.063622,-80.772386
+The Evangelist - Late Harvest Viognier,89.9719733,Ascension Cellars,Central Coast,CA,USA,Viognier,2012,Dessert,White,5564efe1b4f0c10300000058,35.6208282,-120.661364
+Halo Viognier,88.83257864,Ascension Cellars,Central Coast,CA,USA,Viognier,2014,,White,5564efe1b4f0c10300000035,35.6208282,-120.661364
+Ten Sisters Sauvignon Blanc 2019,88.08911164999998,Ten Sisters,Marlborough,,New Zealand,Sauvignon Blanc,2019,,White,5ebd93b69f8ac679bd570efa,35.3107921,-80.7161778
+Perpetua,87.43225519999999,Mission Hill Family Estate,Okanagan Valley,,Canada,Chardonnay,2015,,White,5e94def85fd8fd7ae861dc0f,49.8351166,-119.5867142
+Gossamer Wings,87.34596440000001,Ascension Cellars,Central Coast,CA,USA,"Marsanne, Roussanne, Muscat",2013,,White,5564efe1b4f0c10300000079,35.6208282,-120.661364
+Tenutae Lageder 'Porer' Pinot Grigio,87.0738993818182,Alois Lageder,Alto Adige,,Italy,Pinot Gris,2015,,White,5e94df455fd8fd7ae861e3cd,46.2881958,11.2099521
+Weinkellerei Am Klostergarten Wollsteiner Rheingrafenstein Spatlese Kerner 2016,87.06953182222222,Weinkellerei Am Klostergarten,Rheinhessen,,Germany,Kerner,2016,,White,5e6813d04d42ee2d694c0720,49.8201,6.88315
+Attems Cicinis,86.9986548,Attems,Friuli-Venezia Giulia,,Italy,"Sauvignon Blanc, Pinot Bianco, Friulano",2015,,White,5e94def75fd8fd7ae861dbf7,48.2465955,16.3078493
