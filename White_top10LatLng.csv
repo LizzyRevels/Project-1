@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc23f4fc0004ebeb550cb85386f087d80ff6913709f7b8c5e915279cd7df339e
-size 1656
+Name,Rating,Winery,Area,Province,Country,Varietal,Vintage,Style,Wine Type,ID,Lat,Lng
+IV,93.43378932,Layor Wines,Nova Scotia,,Canada,Vidal,2013,Dessert,White,55663e3e942360030000000e,N/A,N/A
+Layor Gold,90.62767296842104,Layor Wines,Nova Scotia,,Canada,Vidal,2013,Dessert,White,55663e00942360030000000d,N/A,N/A
+The Evangelist - Late Harvest Viognier,89.9719733,Ascension Cellars,Central Coast,CA,USA,Viognier,2012,Dessert,White,5564efe1b4f0c10300000058,34.152814,-118.240556
+Halo Viognier,88.83257864,Ascension Cellars,Central Coast,CA,USA,Viognier,2014,,White,5564efe1b4f0c10300000035,34.152814,-118.240556
+Ten Sisters Sauvignon Blanc 2019,88.08911164999998,Ten Sisters,Marlborough,,New Zealand,Sauvignon Blanc,2019,,White,5ebd93b69f8ac679bd570efa,37.215963,-80.402101
+Perpetua,87.43225519999999,Mission Hill Family Estate,Okanagan Valley,,Canada,Chardonnay,2015,,White,5e94def85fd8fd7ae861dc0f,49.8351166,-119.5867142
+Gossamer Wings,87.34596440000001,Ascension Cellars,Central Coast,CA,USA,"Marsanne, Roussanne, Muscat",2013,,White,5564efe1b4f0c10300000079,34.152814,-118.240556
+Tenutae Lageder 'Porer' Pinot Grigio,87.0738993818182,Alois Lageder,Alto Adige,,Italy,Pinot Gris,2015,,White,5e94df455fd8fd7ae861e3cd,35.735388,-81.325802
+Weinkellerei Am Klostergarten Wollsteiner Rheingrafenstein Spatlese Kerner 2016,87.06953182222222,Weinkellerei Am Klostergarten,Rheinhessen,,Germany,Kerner,2016,,White,5e6813d04d42ee2d694c0720,51.1508037,14.9911084
+Attems Cicinis,86.9986548,Attems,Friuli-Venezia Giulia,,Italy,"Sauvignon Blanc, Pinot Bianco, Friulano",2015,,White,5e94def75fd8fd7ae861dbf7,40.7285143,-74.0018575
