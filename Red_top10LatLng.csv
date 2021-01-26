@@ -1,11 +1,3 @@
-Name,Rating,Winery,Area,Province,Country,Varietal,Vintage,Style,Wine Type,ID,Lat,Lng
-Soul Shaker,89.50631553333334,Ascension Cellars,Central Coast,CA,USA,"Cabernet Sauvignon, Petit Verdot, Syrah, Merlot",2012,,Red,5564efe1b4f0c1030000009c,34.152814,-118.240556
-"Dalliance ""GSMv""",89.42197329999998,Ascension Cellars,Central Coast,CA,USA,"Grenache, Syrah, Mourvedre, Viognier",2011,,Red,5564efe1b4f0c1030000009b,34.152814,-118.240556
-Estate Show Pony Paso Robles Red Cedar Vineyard,88.99779876363634,Clayhouse Wines,San Luis Obispo,CA,USA,Petite Sirah,2012,,Red,5564efe1b4f0c10300000004,35.252533,-120.6883724
-"Ascendance ""Melange""",88.93964886666667,Ascension Cellars,Central Coast,CA,USA,"Cabernet Sauvignon, Merlot",2011,,Red,5564efe1b4f0c10300000036,34.152814,-118.240556
-Duca Bortini Vaporello 2014,88.18293612631581,Duca Bortini,Trentino,Trentino,Italy,"Lambrusco, Merlot",2014,,Red,5e673b734d42ee2d694c0703,N/A,N/A
-Chateau Cailleteau Bergeron OZ de Cailleteau 2015,88.12197330000002,Chateau Cailleteau Bergeron,Blaye Cotes de Bordeaux,,France,Bordeaux Red Blend,2015,,Red,5e4c9868c2f8c4663fc3d28a,45.1624696,-0.6120095999999999
-Mayhem,87.55257864000002,Ascension Cellars,Central Coast,CA,USA,"Syrah, Petit Syrah, Grenache",2011,,Red,5564efe1b4f0c10300000014,34.152814,-118.240556
-Duca Bortini Terre Siciliane Sangiovese 2018,87.47757864,Duca Bortini,Sicily,Sicily,Italy,Sangiovese,2018,,Red,5e67389b4d42ee2d694c0702,N/A,N/A
-"Trinity ""GSM""",87.36796948571428,Ascension Cellars,Central Coast,CA,USA,"Grenache, Syrah, Mourvedre",2012,,Red,5564efe1b4f0c10300000057,34.152814,-118.240556
-Ethereal,87.34596440000001,Ascension Cellars,Central Coast,CA,USA,"Cabernet Sauvignon, Petite Verdot, Petite Sirah, Malbec",2011,,Red,5564efe1b4f0c1030000007a,34.152814,-118.240556
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea32b5d2c5ce814688e0d11afa5b12f90f7b48a37f81b005a525e7e5b26023f3
+size 1787
